@@ -1,0 +1,21 @@
+{
+  "SiteTitle": "alxtrkhv.github.io",
+  "FooterText": "\u00A9 2020-2021 Alexander Terekhov",
+  "NotFoundText": "The page you requested doesn't exist",
+  "UnderConstructionText": "The section is under construction",
+  "LogoText": "Alexander Terekhov",
+  "LogoLink": "home",
+  "NavPanelRoutes": [
+    ["Home", "home"],
+    ["About", "about"]
+  ],
+  "HomeFirstLine": "Alexander Terekhov",
+  "HomeSecondLine": "Software developer",
+  "HomeAvatar": "https://www.gravatar.com/avatar/83506d8360b704afd93ad11e97d2804c?s=350",
+  "HomeIcons": [
+    ["https://github.com/alxtrkhv", "assets/images/shared/logos/github.svg"],
+    ["https://linkedin.com/in/alxtrkhv", "assets/images/shared/logos/linkedin.svg"],
+    ["https://soundcloud.com/alxtrkhv", "assets/images/shared/logos/soundcloud.svg"],
+    ["https://instagram.com/alxtrkhv", "assets/images/shared/logos/instagram.svg"]
+  ]
+}
