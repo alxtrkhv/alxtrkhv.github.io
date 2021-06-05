@@ -1,0 +1,21 @@
+main {
+    margin: 0 100px auto;
+}
+
+:host ::ng-deep p {
+    font-size: 17px;
+}
+
+:host ::ng-deep .top-line {
+    margin: 50px 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+:host ::ng-deep .top-line img {
+    clip-path: circle(50%);
+}
+
+:host ::ng-deep .top-line h1 {
+    margin: auto 0 auto 50px;
+}

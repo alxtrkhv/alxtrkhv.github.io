@@ -1,0 +1,8 @@
+:host {
+  flex: 0 0 auto;
+  height: 100px;
+  display: flex;
+}
+.footer-text {
+  margin: auto;
+}

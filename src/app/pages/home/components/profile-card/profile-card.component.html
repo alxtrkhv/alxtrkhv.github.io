@@ -1,0 +1,10 @@
+<img class="avatar" [src]="imagePath" alt="Avatar"/>
+<h1>{{ name }}</h1>
+<h2>{{ description }}</h2>
+<div class="links-panel">
+<li *ngFor="let link of links">
+    <a [href]="link[0]" target="_blank">
+    <img [src]="link[1]" />
+    </a>
+</li>
+</div>

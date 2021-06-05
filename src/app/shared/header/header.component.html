@@ -1,0 +1,8 @@
+<div class="logo">
+  <a [href]="logoLink">{{ logoText }}</a>
+</div>
+<ul class="nav-panel">
+  <li *ngFor="let route of routes">
+    <a [routerLink]="route[1]">{{ route[0] }}</a>
+  </li>
+</ul>

@@ -1,0 +1,42 @@
+:host {
+  flex: 0 0 auto;
+  height: 50px;
+  position: sticky;
+  top: 0;
+  background-color: var(--accent-color);
+  display: flex;
+}
+:host .logo {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  margin-left: var(--side-offset);
+}
+:host .logo a {
+  outline: none;
+  color: var(--logo-color);
+  text-decoration: none;
+  font-weight: 900;
+  font-size: x-large;
+  text-transform: uppercase;
+  font-family: var(--logo-font), sans-serif;
+}
+:host .nav-panel {
+  margin-right: var(--side-offset);
+  display: flex;
+  align-items: center;
+}
+:host .nav-panel li {
+  display: block;
+}
+:host .nav-panel a {
+  color: black;
+  text-decoration: none;
+  padding: 1em 0.5em;
+  transition: all 0.25s;
+  outline: none;
+}
+:host .nav-panel a:hover {
+  background-color: var(--background-color);
+  cursor: pointer;
+}
