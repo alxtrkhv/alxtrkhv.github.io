@@ -15,7 +15,8 @@
   "HomeIcons": [
     ["https://github.com/alxtrkhv", "assets/images/shared/logos/github.svg"],
     ["https://linkedin.com/in/alxtrkhv", "assets/images/shared/logos/linkedin.svg"],
-    ["https://soundcloud.com/alxtrkhv", "assets/images/shared/logos/soundcloud.svg"],
-    ["https://instagram.com/alxtrkhv", "assets/images/shared/logos/instagram.svg"]
+    ["https://twitter.com/alxtrkhv", "assets/images/shared/logos/twitter.svg"],
+    ["https://instagram.com/alxtrkhv", "assets/images/shared/logos/instagram.svg"],
+    ["https://soundcloud.com/alxtrkhv", "assets/images/shared/logos/soundcloud.svg"]
   ]
 }
